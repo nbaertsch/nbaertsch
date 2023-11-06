@@ -12,4 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![github stats](https://github-readme-stats.vercel.app/api?username=nbaertsch)](https://github.com/anuraghazra/github-readme-stats)
+
+
+🧑‍💻 Writing Nim
+📖 Studying Windows internals
+🥷 Defense evasion and maldev
