@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=nbaertsch)](https://github.com/anuraghazra/github-readme-stats)
 
-🧑‍💻 Writing Nim
+🐱‍💻 Writing Nim
 
 📖 Studying Windows internals
 
