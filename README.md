@@ -13,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=nbaertsch)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=nbaertsch&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🐱‍💻 Writing Nim
 
 📖 Studying Windows internals
 
 🥷 Defense evasion and maldev
+
+Projects hosted elsewhere:
+[raccoon infostealer malware emulation](https://github.com/humanaoffsec/raccoon-infostealer-emulation)
+[more pending open source approval 🐦](...)
