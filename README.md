@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 🥷 Defense evasion and maldev
 
+
 Projects hosted elsewhere:
+
 [raccoon infostealer malware emulation](https://github.com/humanaoffsec/raccoon-infostealer-emulation)
 
 [more pending open source approval 🐦](...)
